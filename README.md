@@ -46,6 +46,7 @@
 
 # 表结构
 
+
 ```
 
 CREATE TABLE `lkk_cnarea` (
